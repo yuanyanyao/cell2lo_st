@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+adjustText
+cell2location
+matplotlib==3.10.8
+numpy==2.4.0
+pandas==2.3.3
+scanpy
+scipy==1.16.3
+scvi
+seaborn
+stereo
+torch
+tqdm==4.67.1
+=======
+scanpy
+anndata
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+statsmodels
+>>>>>>> 13fab32026f08d48b85cd9955c537d0ad280993d

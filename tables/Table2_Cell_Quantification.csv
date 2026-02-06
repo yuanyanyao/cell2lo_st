@@ -1,0 +1,4 @@
+Metric,Model,Control,Change_Type,Value
+T Cells (>0.075) Count,35,17,Fold Increase,2.06x
+DA Neurons (>2.0) Count,50,77,Reduction (%),-35.1%
+DA Total Abundance (Sum),475.1,714.8,Reduction (%),-33.5%
